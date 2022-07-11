@@ -1,6 +1,6 @@
 # Matheus Portfolio
 
-# [Project 1: Analysing SuperBowl Data using Pandas, Matplotlib and Seaborn](https://github.com/Archieks/SuperBowl.git)
+# [Project 1: Analyzing SuperBowl Data using Pandas, Matplotlib and Seaborn](https://github.com/Archieks/SuperBowl.git)
 
 Project from Datacamp
 
@@ -9,4 +9,6 @@ Project from Datacamp
 <li>How have viewership, TV ratings, and ad cost evolved over time?</li>
 <li>Who are the most prolific musicians in terms of halftime show performances?</li>
 
-![](/images/difference_pts_plt.png) ![](/images/viewership_ads.png)
+![](/images/difference_pts_plt.png) 
+/n
+![](/images/viewership_ads.png)
