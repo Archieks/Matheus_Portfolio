@@ -1,5 +1,4 @@
 # Matheus Portfolio
-Repository to showcase the projects I have worked or I'm currently working on!
 
 # Project 1: Analysing SuperBowl, TV, Halftime shows and the Big Game.
 
