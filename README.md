@@ -9,5 +9,4 @@ Project from Datacamp
 <li>How have viewership, TV ratings, and ad cost evolved over time?</li>
 <li>Who are the most prolific musicians in terms of halftime show performances?</li>
 
-![](/images/difference_pts_plt.png)
-![](/images/viewership_ads.png)
+![](/images/difference_pts_plt.png) ![](/images/viewership_ads.png)
