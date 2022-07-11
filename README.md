@@ -1,6 +1,6 @@
 # Matheus Portfolio
 
-# [Project 1: Analysing SuperBowl, TV, Halftime shows and the Big Game.](https://github.com/Archieks/SuperBowl.git)
+# [Project 1: Analysing SuperBowl Data using Pandas, Matplotlib and Seaborn](https://github.com/Archieks/SuperBowl.git)
 
 <li>What are the most extreme game outcomes?</li>
 <li>How does the game affect television viewership?</li>
