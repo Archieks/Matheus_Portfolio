@@ -13,7 +13,6 @@ O objetivo desta análise é entender quais variáveis podem indicar uma probabi
 <li>Analisar possíveis correlações</li>
 
 ![](/images/hist_qtdtrans.png) 
-/n
 ![](/images/scatter_qtdvol.png)
 
 # [Project 2: Analyzing SuperBowl Data using Pandas, Matplotlib and Seaborn](https://github.com/Archieks/SuperBowl.git)
@@ -26,5 +25,4 @@ Project from Datacamp
 <li>Who are the most prolific musicians in terms of halftime show performances?</li>
 
 ![](/images/difference_pts_plt.png) 
-/n
 ![](/images/viewership_ads.png)
